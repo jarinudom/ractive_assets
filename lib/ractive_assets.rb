@@ -1,7 +1,7 @@
 require "ractive_assets/version"
 
 module RactiveAssets
-  PATH = File.expand_path("../../vendor/assets/javascripts", __FILE__)
+  PATH = File.expand_path("../../vendor/assets/components/ractive", __FILE__)
 
   def self.path
     PATH

@@ -1,0 +1,21 @@
+{
+  "name": "ractive_assets",
+  "version": "0.0.12",
+  "homepage": "https://github.com/unity/ractive_assets",
+  "authors": [
+    "Romain Dardour"
+  ],
+  "description": "Ractive template adapter for Sprockets",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ractive": "~0.5.5"
+  }
+}
